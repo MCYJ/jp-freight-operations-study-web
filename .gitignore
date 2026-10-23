@@ -1,0 +1,5 @@
+dist/
+project-context.md
+*-preview.png
+*-qa.json
+node_modules/
